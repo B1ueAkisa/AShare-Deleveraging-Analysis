@@ -43,3 +43,7 @@ ENV/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Video build cache
+video_production/
+
